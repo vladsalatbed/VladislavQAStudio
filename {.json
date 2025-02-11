@@ -1,0 +1,50 @@
+{
+	"comicbooks": [{
+		"comic_card": null,
+		"annotation": "Каждый может написать профессиональный справочник под названием «Манипулирование людьми. Как заставить близких делать то, что ты хочешь». Да! В веселых и трогательных иллюстрациях польской художницы Марии Аполейки вы непременно узнаете себя и своих неугомонных щеночков. Это полное руководство для тех, кто только надумал впустить в свою жизнь четвероногого друга, или уже готов поддаться «дрессировке» сам, чтобы понять почему собака так обожает бороздить брюхом грязную лужу, облаивать соседей, или грызть брендовые сапоги. Любовь простит все – мытье чумазого лохматика, уборку луж и стресс, любовь все на свете простит, потому что любовь — это собака.",
+		"authors": [{
+			"name": "Мария Пополейка",
+			"locale": "ru",
+			"uuid": "P5Wu9vuE",
+			"works_count": 1,
+			"image": {
+				"small": "https://api.bookmate.ru/pipeline/authors/default8-8b8349db8c0dcedf41269d971b1d27ba2a8817023ea950b923b1b0571db3eb7e.png",
+				"large": "https://api.bookmate.ru/pipeline/authors/default8-8b8349db8c0dcedf41269d971b1d27ba2a8817023ea950b923b1b0571db3eb7e.png",
+				"placeholder": null
+			},
+			"removed": false
+		}],
+		"owner_catalog_title": "Издательство ЭКСМО",
+		"original_year": null,
+		"bookshelves_count": 33,
+		"can_be_read": true,
+		"access_restrictions": [{
+			"level": "bookmate"
+		}],
+		"age_restriction": "12",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/comicbooks-covers/56/57/bJEIYzKE-large.jpeg?image_hash=bf230b83b2175fe283868d5746466335",
+			"placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAAAAACMmsGiAAAAHElEQVQI12P8+JBFnuXj5V+8LH/lGdmY2BnY+QFS7AYM20Ol+wAAAABJRU5ErkJggg==",
+			"ratio": 0.763,
+			"small": "https://api.bookmate.ru/assets/comicbooks-covers/56/57/bJEIYzKE-small.jpeg?image_hash=f85aef4e2a9dbca76eee2240351557e9",
+			"background_color_hex": "#ADADAD"
+		},
+		"impressions_count": 1524,
+		"labels": [{
+			"text": "Bookmate",
+			"color": "#9D7860"
+		}],
+		"language": "ru",
+		"orientation": "portrait",
+		"pages_count": 320,
+		"readers_count": 23038,
+		"title": "Пёсьи байки. Все, что сказала бы ваша собака, умей она говорить",
+		"uuid": "bJEIYzKE",
+		"background_color_hex": "#ADADAD",
+		"publication_date": 1679432400,
+		"editor_annotation": null
+	}]
+}
+		"editor_annotation": null
+	}]
+}
